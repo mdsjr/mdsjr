@@ -7,9 +7,12 @@ posteriormente migrei para a área de tecnologia, atuando como Técnico de Supor
 atualmente como Analista de Negócio/Suporte, onde pude aplicar minhas habilidades  
 de análise de negócios, coleta de necessidades junto aos clientes, documentação e  
 levantamento de requisitos, além de auxiliar no desenvolvimento e implementação de  
-soluções de sistemas. Trabalhando com metodologias ágeis e ferramentas de gestão de  
+soluções de sistemas.
+
+Trabalhando com metodologias ágeis e ferramentas de gestão de  
 tarefas, realizando testes, parametrização e integração entre APIs, além de executar  
 scripts via PL/SQL.  
+
 Durante minha formação, desenvolvi uma forte proficiência em diversas tecnologias,  
 incluindo Git, Java, HTML, CSS, JavaScript e bancos de dados SQL. Tenho conhecimento  
 em front-end e web design, utilizando ferramentas como WordPress e GeneXus Core  
