@@ -1,11 +1,15 @@
 # Olá! 👋 Bem-vindo ao meu perfil no GitHub!  
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Tenho experiência prática em diversas linguagens e ferramentas, incluindo:  
-- **Git**  
-- **Java**  
-- **HTML, CSS e JavaScript**  
+Sou Moacir Domingos, um apaixonado por tecnologia e desenvolvimento de software, com foco em criar soluções inovadoras e impactantes.   
+Atuo como desenvolvedor full-stack, combinando habilidades em front-end, back-end, e gerenciamento de projetos para entregar aplicações eficientes e criativas. 🚀  
+
+- **Frontend: HTML5, CSS3, JavaScript (ES6), Tailwind CSS**  
+- **Backend: Node.js, Express, OpenAI API**  
+- **Ferramentas: Git, GitHub, Postman, npm, VS Code, PowerShell**  
 - **Bancos de Dados SQL**  
-- **Ferramentas Low Code** como **WordPress** e **GeneXus Core Lab**  
+- **Low Code: WordPress, GeneXus Core Lab**
+- **DevOps: Docker, AWS (básico), Shell Script**
+- **Gestão: Gerenciamento de Projetos (PMI)**
 
 Atuo tanto no **front-end** quanto no **back-end**, sempre buscando entregar soluções eficientes e criativas.  
 
@@ -26,7 +30,7 @@ Atuo tanto no **front-end** quanto no **back-end**, sempre buscando entregar sol
 
 ### 🌱 Sobre mim  
 
-- 🎓 Estou no último semestre de Engenharia de Software.  
+- 🎓 Formado em Engenharia de Software.  
 - 📚 Pós-graduado em Gerenciamento de Projetos (PMI).  
 - 🚀 Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.  
 - 🤝 Aberto a colaborações em projetos de software e inovação tecnológica.  
